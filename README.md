@@ -72,4 +72,4 @@ Highest rated categories:
 ✔ Expand top-performing brands inventory
 ✔ Improve low-engagement casualwear categories
 
-Screenshot: 
+Screenshot:( https://github.com/kashishsachan251-ctrlKash/Myntra-Fashion-Clothing-Dashboard/blob/main/Screenshot%202026-02-20%20214907.png)
